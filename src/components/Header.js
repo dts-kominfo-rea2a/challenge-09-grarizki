@@ -5,7 +5,6 @@ import './header.css';
 const Header = () => {
 
     return (
-
         <div className="title">
             <h1>Call a Friend </h1>
             <p> your friendly contact app</p>
